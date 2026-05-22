@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Mastering React Performance Optimization",
+    "category": "Development",
+    "content": "Learn advanced React performance techniques including memoization, lazy loading, code splitting, virtualization, and rendering optimization to build lightning-fast applications.",
+    "coverImage": "https://images.unsplash.com/photo-1633356122544-f134324a6cee"
+  },
+  {
+    "title": "The Future of Artificial Intelligence in Everyday Life",
+    "category": "Technology",
+    "content": "Explore how AI is transforming industries, personal productivity, healthcare, transportation, and education through automation and intelligent systems.",
+    "coverImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995"
+  },
+  {
+    "title": "10 UI/UX Design Principles Every Developer Should Know",
+    "category": "Design",
+    "content": "Understand the essential UI/UX principles that improve usability, accessibility, and user engagement in modern web and mobile applications.",
+    "coverImage": "https://images.unsplash.com/photo-1559028012-481c04fa702d"
+  },
+  {
+    "title": "Building Scalable Node.js APIs",
+    "category": "Backend",
+    "content": "A complete guide to building secure, scalable, and production-ready REST APIs using Node.js, Express, MongoDB, and best architectural practices.",
+    "coverImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+  },
+  {
+    "title": "Why Dark Mode Became a Standard in Modern Apps",
+    "category": "Mobile",
+    "content": "Discover the psychology, design benefits, accessibility improvements, and technical implementation behind dark mode interfaces.",
+    "coverImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+  },
+  {
+    "title": "Getting Started with React Native in 2026",
+    "category": "Mobile",
+    "content": "Everything beginners need to know to build high-performance Android and iOS applications using React Native and modern tooling.",
+    "coverImage": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb"
+  },
+  {
+    "title": "Top MongoDB Best Practices for Developers",
+    "category": "Database",
+    "content": "Learn schema design strategies, indexing techniques, aggregation pipelines, and optimization tips for MongoDB applications.",
+    "coverImage": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d"
+  },
+  {
+    "title": "Cybersecurity Essentials for Web Applications",
+    "category": "Security",
+    "content": "Protect your applications from common vulnerabilities like XSS, CSRF, SQL injection, and authentication attacks using modern security practices.",
+    "coverImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3"
+  },
+   {
+    "title": "Complete Guide to Modern JavaScript ES2026",
+    "category": "Development",
+    "content": "Discover the latest JavaScript ES2026 features including advanced array methods, async improvements, performance enhancements, and modern coding patterns for scalable applications.",
+    "coverImage": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2"
+  },
+  {
+    "title": "How Cloud Computing is Changing Startups",
+    "category": "Cloud",
+    "content": "Learn how startups leverage cloud computing platforms like AWS, Azure, and Google Cloud to scale rapidly, reduce infrastructure costs, and improve deployment workflows.",
+    "coverImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa"
+  },
+  {
+    "title": "Building Beautiful Mobile Apps with React Native",
+    "category": "Mobile",
+    "content": "Explore best practices for creating responsive, animated, and professional mobile applications using React Native, reusable components, and modern UI libraries.",
+    "coverImage": "https://images.unsplash.com/photo-1526498460520-4c246339dccb"
+  },
+  {
+    "title": "Introduction to Docker for Full Stack Developers",
+    "category": "DevOps",
+    "content": "Understand how Docker containers simplify application deployment, improve consistency across environments, and streamline development workflows for modern teams.",
+    "coverImage": "https://images.unsplash.com/photo-1605745341112-85968b19335b"
+  },
+  {
+    "title": "Best Practices for Secure Authentication Systems",
+    "category": "Security",
+    "content": "Learn how to implement JWT authentication, password hashing, role-based access control, and multi-factor authentication in web applications securely.",
+    "coverImage": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7"
+  },
+  {
+    "title": "The Rise of Progressive Web Applications",
+    "category": "Web",
+    "content": "Explore how Progressive Web Apps combine the best of web and mobile experiences with offline support, push notifications, and lightning-fast performance.",
+    "coverImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
+  },
+  {
+    "title": "Mastering Git and GitHub for Team Collaboration",
+    "category": "Tools",
+    "content": "A practical guide to Git branching, pull requests, conflict resolution, version control strategies, and effective collaboration using GitHub workflows.",
+    "coverImage": "https://images.unsplash.com/photo-1556075798-4825dfaaf498"
+  }
+
+]
+
+ 
